@@ -1,18 +1,13 @@
 <!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
+ * @Date         : 2025-06-17 01:04:24
+ * @Author       : BDFD,bdfd2005@gmail.com
+ * @Github       : https://github.com/bdfd
+ * @LastEditTime : 2025-08-09 09:24:02
+ * @LastEditors  : <BDFD>
+ * @Description  :
+ * @FilePath     : \README.md
+ * Copyright (c) 2025 by BDFD, All Rights Reserved.
 -->
-
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style!
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
@@ -105,5 +100,3 @@ Main Instructor:
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->
