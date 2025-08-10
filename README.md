@@ -2,7 +2,7 @@
  * @Date         : 2025-06-17 01:04:24
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-08-10 00:36:44
+ * @LastEditTime : 2025-08-10 01:09:12
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -22,7 +22,7 @@
 ![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
 
 </p> 
-An introductory course in physics for students intending to concentrate their future studies in the physical sciences, optometry, or mathematics; includes vectors (dot and cross products), particle kinematics and dynamics, forces in nature, work and energy, conservation of energy and linear momentum, rotational kinematics and dynamics, and conservation of angular momentum.
+MHF4U - Advanced Functions course extends students' experience with functions. Students will investigate the properties of polynomial, rational, logarithmic, and trigonometric functions; develop techniques for combining functions; broaden their understanding of rates of change; and develop facility in applying these concepts and skills. Students will also refine their use of the mathematical processes necessary for success in senior mathematics. This course is intended both for students taking the Calculus and Vectors course as a prerequisite for a university program and for those wishing to consolidate their understanding of mathematics before proceeding to any one of a variety of university programs.
 
 **Course prerequisite**
 
@@ -32,24 +32,29 @@ An introductory course in physics for students intending to concentrate their fu
 
 **Course Content**
 
-- [ ] **P1-Textbook(Publisher/Year)**
-- [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Self Prepared for Publisher/Year)**
-- [ ] **P4-Project Plan(Self Prepare)**
-- [ ] **P5-Unit Test Review Question(Publisher/Year)**
-- [ ] **P6-Exam Review Question(Publisher/Year)**
+- [x] **P1-Textbook(McGraw-Hill Ryerson[2012/unknown]/Nelson)**
+- [x] **P2-Solution Mannual(Nelson)**
+- [x] **P3-Lecture Handout([TDSB01/2025]/[SP01/2025])**
+- [ ] **P4-Problem Set(Publisher/Year)**
+- [ ] **P5-Course Project(Publisher/Year)**
+- [x] **P6-Past Quiz([TDSB01/2025])**
+- [x] **P7-Past Test([TDSB01/2025])**
+- [x] **P8-Past Exam([SampleExam/2025])**
+- [x] **P9-Reference Note/Book(TrigFormula/TrigToolBox)**
 
 ## Course Learn Path - Modules
 
-The courses enlisted as follows:
+The courses MDM(McGraw-Hill Ryerson) unit list as follows:
 
-- [ ] **U1-Kinematics**
-- [ ] **U2-Dynamics**
-- [ ] **U3-Energy**
-- [ ] **U4-Linear Momentum**
-- [ ] **U5-Angular Momentum**
-- [ ] **U6-Rotational Motion**
-- [ ] **U7-Rotational Motion**
+- [x] **Ch01-Functions: Characteristics and Propertities**
+- [x] **Ch02-Functions: Understanding Rate of Changes**
+- [x] **Ch03-Polynomial Functions**
+- [x] **Ch04-Polynomial Equations and Inequalities**
+- [x] **Ch05-Rational Functions, Equations, and Inequalities**
+- [x] **Ch06-Trigonometric Funtions**
+- [x] **Ch07-Trigonometric Identities and Equations**
+- [x] **Ch08-Exponential and Logarithmic Funtions**
+- [x] **Ch09-Combinations of Funtions**
 
 ## Course Description: 1 Course
 
@@ -65,7 +70,9 @@ Main Instructor:
 
 **Textbooks:**
 
-1.
+1.Mathematics of Data Management(McGraw-Hill Ryerson)
+2.Mathematics of Data Management[Pre Calculus](McGraw-Hill Ryerson, 2012)
+3.Mathematics of Data Management(Nelson)
 
 **Add-on Resources:**
 
@@ -77,7 +84,7 @@ Main Instructor:
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Link](https://torontoeschool.com/courseoutlines/MHF4U.pdf)
 
 <div align="center">
 
