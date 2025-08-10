@@ -2,7 +2,7 @@
  * @Date         : 2025-06-17 01:04:24
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-08-09 09:29:42
+ * @LastEditTime : 2025-08-10 00:36:44
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -69,7 +69,7 @@ Main Instructor:
 
 **Add-on Resources:**
 
-1. Microsoft Excel
+1. Microsoft Excel/Google Sheet
 2. Scientific Calculator
 3. TI-83+ Graphing Calculator
 
