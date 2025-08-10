@@ -2,7 +2,7 @@
  * @Date         : 2025-06-17 01:04:24
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-08-10 01:09:12
+ * @LastEditTime : 2025-08-10 12:04:16
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -19,7 +19,7 @@
 
 ## About This Course
 
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/TDSB_MDM4U_Gr12-Mathematics-Of-Data-Management?label=Last%20Commit%20)
 
 </p> 
 MHF4U - Advanced Functions course extends students' experience with functions. Students will investigate the properties of polynomial, rational, logarithmic, and trigonometric functions; develop techniques for combining functions; broaden their understanding of rates of change; and develop facility in applying these concepts and skills. Students will also refine their use of the mathematical processes necessary for success in senior mathematics. This course is intended both for students taking the Calculus and Vectors course as a prerequisite for a university program and for those wishing to consolidate their understanding of mathematics before proceeding to any one of a variety of university programs.
