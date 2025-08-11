@@ -2,7 +2,7 @@
  * @Date         : 2025-06-17 01:04:24
  * @Author       : BDFD,bdfd2005@gmail.com
  * @Github       : https://github.com/bdfd
- * @LastEditTime : 2025-08-10 12:04:16
+ * @LastEditTime : 2025-08-11 13:01:54
  * @LastEditors  : <BDFD>
  * @Description  :
  * @FilePath     : \README.md
@@ -34,13 +34,16 @@ MHF4U - Advanced Functions course extends students' experience with functions. S
 
 - [x] **P1-Textbook(McGraw-Hill Ryerson[2012/unknown]/Nelson)**
 - [x] **P2-Solution Mannual(Nelson)**
-- [x] **P3-Lecture Handout([TDSB01/2025]/[SP01/2025])**
-- [ ] **P4-Problem Set(Publisher/Year)**
-- [ ] **P5-Course Project(Publisher/Year)**
-- [x] **P6-Past Quiz([TDSB01/2025])**
-- [x] **P7-Past Test([TDSB01/2025])**
-- [x] **P8-Past Exam([SampleExam/2025])**
-- [x] **P9-Reference Note/Book(TrigFormula/TrigToolBox)**
+- [x] **P3-Lecture Note Annoted([TDSB01/2025]/[SP01/2025])**
+- [ ] **P3.1-Summary Note(Publisher/Year)**
+- [ ] **P4-Tutorial Slide(Publisher/Year)**
+- [ ] **P5-Problem Set(Publisher/Year)**
+- [ ] **P6-Course Projects(Publisher/Year)**
+- [ ] **P6.1-Writing Activities(Publisher/Year)**
+- [x] **P7-Pre-Class Quiz([TDSB01/2025])**
+- [x] **P8-Term Test([TDSB01/2025])**
+- [x] **P9-Final Exam Review([SampleExam/2025])**
+- [x] **P10-Reference Note/Book(TrigFormula/TrigToolBox)**
 
 ## Course Learn Path - Modules
 
